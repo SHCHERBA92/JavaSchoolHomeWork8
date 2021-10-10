@@ -1,0 +1,4 @@
+factorial5:120
+factorial8:40320
+factorial3:6
+factorial4:24
